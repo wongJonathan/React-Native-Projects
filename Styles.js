@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     },
 
     boxText: {
-        color: 'darkslategray',
+        color: 'blue',
         frontWeight: 'bold',
     },
 });
